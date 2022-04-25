@@ -8,8 +8,8 @@
 
 ## SwiftUI Multi-platform Apps
 
-- [LifeGame App](https://github.com/YusukeHosonuma/SwiftUI-LifeGame) ([App Store](https://apps.apple.com/app/id1620557880))
 - [SE Browser](https://github.com/YusukeHosonuma/Swift-Evolution-Browser) ([App Store](https://apps.apple.com/app/id1615741502))
+- [LifeGame App](https://github.com/YusukeHosonuma/SwiftUI-LifeGame) ([App Store](https://apps.apple.com/app/id1620557880))
 - [E2DC](https://github.com/YusukeHosonuma/E2DC) ([App Store](https://apps.apple.com/app/id1616576556))
 
 ## Swift Library
@@ -20,8 +20,8 @@
 ## SwiftUI Library
 
 - [SwiftUI-Simulator](https://github.com/YusukeHosonuma/SwiftUI-Simulator)
-- [SFReadableSymbols](https://github.com/YusukeHosonuma/SFReadableSymbols)
 - [SwiftUI-Common](https://github.com/YusukeHosonuma/SwiftUI-Common)
+- [SFReadableSymbols](https://github.com/YusukeHosonuma/SFReadableSymbols)
 
 ## Discusions
 
