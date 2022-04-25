@@ -1,15 +1,15 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusukeHosonuma&theme=dark&show_icons=true
 )](https://github.com/anuraghazra/github-readme-stats)
 
-## Links
-
-- [Qiita](https://qiita.com/YusukeHosonuma)
-- [Zenn](https://zenn.dev/tobi462)
-
 ## Books
 
 - [iOSテスト全書 / PEAKS](https://peaks.cc/books/iOS_testing)
 - [iOSアプリ開発自動テストの教科書 / 技術評論社](https://gihyo.jp/book/2019/978-4-297-10629-4)
+
+## Articles
+
+- [Qiita](https://qiita.com/YusukeHosonuma)
+- [Zenn](https://zenn.dev/tobi462)
 
 ## SwiftUI Multi-platform Apps
 
