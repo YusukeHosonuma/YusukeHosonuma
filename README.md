@@ -1,5 +1,10 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusukeHosonuma
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusukeHosonuma&theme=dark&show_icons=true
 )](https://github.com/anuraghazra/github-readme-stats)
+
+## Links
+
+- [Qiita](https://qiita.com/YusukeHosonuma)
+- [Zenn](https://zenn.dev/tobi462)
 
 ## SwiftUI Multi-platform Apps
 
@@ -18,16 +23,6 @@
 - [SFReadableSymbols](https://github.com/YusukeHosonuma/SFReadableSymbols)
 - [SwiftUI-Common](https://github.com/YusukeHosonuma/SwiftUI-Common)
 
-## SwiftUI Discusions
+## Discusions
 
 - [Effective SwiftUI 候補（仮説）](https://github.com/YusukeHosonuma/Effective-SwiftUI)
-
-## Crystal Library
-
-- [assert-diff](https://github.com/YusukeHosonuma/assert-diff)
-
-## Minor Library
-
-- [SwiftRLE](https://github.com/YusukeHosonuma/SwiftRLE)
-- [Flatten](https://github.com/YusukeHosonuma/Flatten)
-- [SHList](https://github.com/YusukeHosonuma/SHList)
