@@ -6,7 +6,7 @@
 - [iOSテスト全書 / PEAKS](https://peaks.cc/books/iOS_testing)
 - [iOSアプリ開発自動テストの教科書 / 技術評論社](https://gihyo.jp/book/2019/978-4-297-10629-4)
 - [Effective SwiftUI 候補（仮説）](https://github.com/YusukeHosonuma/Effective-SwiftUI)
-- 
+
 ## 📘 Swift Library
 
 - [SwiftPrettyPrint](https://github.com/YusukeHosonuma/SwiftPrettyPrint)
