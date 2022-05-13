@@ -33,3 +33,6 @@
 - [LifeGame App](https://github.com/YusukeHosonuma/SwiftUI-LifeGame) ([App Store](https://apps.apple.com/app/id1620557880))
 - [E2DC](https://github.com/YusukeHosonuma/E2DC) ([App Store](https://apps.apple.com/app/id1616576556))
 
+## 🗓 Who?
+
+- [Portfolio and Resume](https://yusukehosonuma.github.io/)
