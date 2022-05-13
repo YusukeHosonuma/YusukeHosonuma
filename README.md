@@ -23,6 +23,7 @@
 
 - [Qiita](https://qiita.com/YusukeHosonuma)
 - [Zenn](https://zenn.dev/tobi462)
+- [Speaker Deck](https://speakerdeck.com/yusukehosonuma)
 
 ## 🔍 News
 - [Weekly newsletter of トビ](https://www.getrevue.co/profile/tobi462)
